@@ -1,2 +1,2 @@
 # snailers
-Open source project for the snailer app
+Open source project for the Snailer app
